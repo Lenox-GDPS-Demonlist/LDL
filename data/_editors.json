@@ -1,23 +1,23 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "GreyLenox",
+        "link": "https://www.youtube.com/@GreyLenox"
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "TheRealCave",
+        "link": "https://www.youtube.com/@TheRealCave_"
+    },
+    {
+        "role": "admin",
+        "name": "nebnoob",
+        "link": "https://www.youtube.com/@nebnoobgeometrydash1524"
     },
     {
         "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Enzymerz",
+        "link": "https://www.youtube.com/@SubstrateLover"
     },
     {
         "role": "dev",
